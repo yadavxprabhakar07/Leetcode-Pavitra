@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
