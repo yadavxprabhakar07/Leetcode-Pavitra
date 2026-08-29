@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
