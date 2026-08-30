@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
