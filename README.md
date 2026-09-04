@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
+| [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
+| [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3467-transform-array-by-parity) |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
