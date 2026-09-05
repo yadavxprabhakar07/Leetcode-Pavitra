@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
+| [3904-smallest-stable-index-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
