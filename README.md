@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0231-power-of-two) |
+| [3870-count-commas-in-range](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
