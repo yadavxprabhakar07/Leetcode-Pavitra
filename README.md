@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
