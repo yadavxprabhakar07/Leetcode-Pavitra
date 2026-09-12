@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
