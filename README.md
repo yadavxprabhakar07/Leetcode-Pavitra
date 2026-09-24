@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3904-smallest-stable-index-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0231-power-of-two) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
