@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0137-single-number-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
