@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0137-single-number-ii) |
