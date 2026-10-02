@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0238-product-of-array-except-self) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3904-smallest-stable-index-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
