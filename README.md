@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
