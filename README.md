@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
