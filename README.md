@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
