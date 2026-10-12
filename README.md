@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,8 +194,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
