@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/3467-transform-array-by-parity) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
