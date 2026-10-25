@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0222-count-complete-tree-nodes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0662-maximum-width-of-binary-tree) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yadavxprabhakar07/Leetcode-Pavitra/tree/master/0662-maximum-width-of-binary-tree) |
